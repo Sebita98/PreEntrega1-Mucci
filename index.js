@@ -14,7 +14,7 @@ let respuesta = prompt("¿Sabes matematica?");
 if (respuesta === "si") {
     alert("Perfecto");
 } else {
-    alert("Aprende un poquito");
+    alert("Repasemos o aprendamos un poco");
 }
 
 let numero = parseInt(prompt("¿Cuanto es 2x5?"));
